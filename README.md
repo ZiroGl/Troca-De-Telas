@@ -73,7 +73,7 @@ Na tela principal, o usuário ira encontrar o botão "ir para tela 2".
 
 <img src="https://github.com/user-attachments/assets/db4ba09f-4097-4ca0-8873-9d4a1bc9d584" width="260" height="500"/>
 
-## 1. *Tela Principal*
+## 2. *Tela 2*
  <br> <h3> Tela 2</h3>
 Na tela principal, o usuário ira encontrar o botão "ir para tela principal".
 
