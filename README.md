@@ -80,6 +80,10 @@ Na tela principal, o usuário ira encontrar o botão "ir para tela principal".
 
 <img src="https://github.com/user-attachments/assets/d3813eda-62c6-4866-bca1-25689a3c4720" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/Troca-De-Telas/blob/main/Trocadetelas.apk"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/Troca-De-Telas/blob/main/LICENSE)  
