@@ -38,7 +38,7 @@ bash
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/br/ulbra/Troca De Telas
+│   │   │   ├── java/br/ulbra/TrocaDeTelas
 │   │   │  
 │   ├── MainActivity.java        
 │   │   │   ├──res
